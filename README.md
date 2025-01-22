@@ -1,2 +1,6 @@
 # Tic-Tac-Toe
-Tic-Tac-Toe game using python and tkinter
+Tic-Tac-Toe Game.
+
+Using:-
+Python, 
+Tkinter.
